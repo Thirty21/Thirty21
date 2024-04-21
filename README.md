@@ -1,40 +1,21 @@
-<h1 align="center">
-<img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952f04swel4gx5fq82p6umm2vfq41pr8upken7e1u8h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-
-</h1>
-
-<p align="center">
-  <a href="https://www.instagram.com/ahdiikhf_?igsh=NXJ5bHR6czk0MHpn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-  <a href="ahdikhalidaf0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-  <a href="https://www.spotify.com/id-id/account/overview/" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
-  </a>
-</p><br>
-
-<div align="center">
-  <a href="https://github.com/Thirty21/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=siitinurhaliza&style=for-the-badge">
-  </a>
+# 💫 About Me:
+I am a Bogor State Polytechnic student majoring in Information Technology. Very motivated to continue improving my skills. I enjoy discovering new things and sharing them with others. I like cats, games, and listening to music.
 
 
-  ## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="70"> **About Me:**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahdiikhf_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arcive_code) 
 
-  I am a Bogor State Polytechnic student majoring in Information Technology. Very motivated to continue improving my skills. I enjoy discovering new things and sharing them with others. I like coding, games, and football. <br>
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Thirty21&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thirty21&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thirty21&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Thirty21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<img align="left" width="15%" height="15%" src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif">
+---
+[![](https://visitcount.itsvg.in/api?id=Thirty21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" width="20%" height="20%" src="https://media.giphy.com/media/DulF4GPH4TfggoQDh0/giphy.gif">
-
-## 📱 Apps I use
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-0077B5?style=for-the-badge&logo=tableau&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20studio-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-<h3>You can leave me a note <a href="https://github.com/siitinurhaliza/siitinurhaliza/issues/new?template=guestbook-entry.md">here</a>!</h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
