@@ -19,7 +19,7 @@
 
   ## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="70"> **About Me:**
 
-  I am a Padang State Polytechnic student majoring in Information Technology. Very motivated to continue improving my skills. I enjoy discovering new things and sharing them with others. I like cats, games, and listening to music. <br>
+  I am a Bogor State Polytechnic student majoring in Information Technology. Very motivated to continue improving my skills. I enjoy discovering new things and sharing them with others. I like coding, games, and football. <br>
 </div>
 
 
