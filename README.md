@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Bogor State Polytechnic student majoring in Information Technology. Very motivated to continue improving my skills. I enjoy discovering new things and sharing them with others. I like cats, games, and listening to music.
+I am a Bogor State Polytechnic student majoring in Information Technology. Very motivated to continue improving my skills. I enjoy discovering new things and sharing them with others. I like coding, football, and basketball.
 
 
 ## 🌐 Socials:
