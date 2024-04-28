@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Bogor State Polytechnic student majoring in Information Technology. Very motivated to continue improving my skills. I enjoy discovering new things and sharing them with others. I like coding, football, and basketball.
+Dedicated computer engineering technology student at IPB University Bogor with a passion for continuous learning and upskilling. Proactive learner who enjoys discovering new technologies and sharing knowledge with others. Proficient in coding with a keen interest in software development and innovation. Enthusiastic about sports, especially soccer and basketball, fostering teamwork and discipline both on and off the field. Committed to utilizing technical expertise to effectively contribute to the IT industry and make a positive impact on society.
 
 
 ## 🌐 Socials:
